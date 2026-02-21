@@ -1,30 +1,30 @@
 # Saif Ali
 
-Senior Software Engineer | Full Stack & Mobile Systems
+Senior Software Engineer | Full-Stack & Mobile Systems
 
-I design and ship scalable systems across mobile, web, and backend infrastructure.
+I design and build scalable systems across mobile, web, and backend infrastructure.
 
-7+ years of production engineering experience building high-performance React Native applications, scalable APIs, and modular architectures designed for long-term maintainability.
+7+ years of production engineering experience building high-performance React Native applications, scalable APIs, and modular architectures designed for maintainability, performance, and long-term growth.
 
 ---
 
 ## Engineering Focus
 
-- Distributed mobile and web system architecture  
+- Distributed mobile & web system architecture  
 - React Native performance optimization & memory management  
 - Backend API design (REST / GraphQL)  
 - Database schema design & query optimization  
-- Production debugging and safe large-scale refactoring  
-- CI/CD pipeline design and release stability  
+- Production debugging & safe large-scale refactoring  
+- CI/CD pipeline design & release engineering  
 
 ---
 
 ## Selected Impact
 
-- Improved mobile app render performance and reduced unnecessary re-renders through state normalization and memoization strategies  
-- Optimized API response times by restructuring service boundaries and reducing redundant database queries  
-- Reduced production crash rates through structured logging, monitoring, and error boundary design  
-- Refactored legacy modules into modular, testable components to improve maintainability and reduce regression risk  
+- Reduced app render latency by optimizing render logic and minimizing unnecessary re-renders  
+- Improved API response times by restructuring endpoints and query workflows  
+- Decreased crash rates through robust logging, error boundaries, and monitoring  
+- Refactored monolithic modules into modular, testable components to improve stability  
 
 ---
 
@@ -33,33 +33,33 @@ I design and ship scalable systems across mobile, web, and backend infrastructur
 React Native · React · Next.js · TypeScript  
 Node.js · GraphQL  
 MongoDB · PostgreSQL  
-AWS · Docker · CI/CD  
+AWS · Docker · CI/CD · GitHub Actions  
 
 ---
 
 ## Engineering Principles
 
-- Design for scale from day one  
-- Measure performance, don’t assume it  
-- Favor modular systems over feature coupling  
-- Optimize for maintainability and clarity  
-- Align technical decisions with long-term product goals  
+- Design systems for scale from day one  
+- Measure performance — don’t assume it  
+- Favor modular architecture over coupling  
+- Prioritize maintainability and clarity  
+- Align technical decisions with product goals  
 
 ---
 
 ## AI-Assisted Engineering
 
-AI-assisted workflows integrated into disciplined engineering processes:
+AI is integrated into disciplined engineering workflows:
 
 - Structured prototyping  
 - Controlled large-scale refactoring  
-- Test scaffolding and documentation automation  
+- Test scaffolding & documentation automation  
 - Debugging acceleration  
 
-Engineering rigor remains the priority.
+Engineering judgment remains the priority.
 
 ---
 
-GitHub Stats:
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=thesaifalitai&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
