@@ -2,7 +2,7 @@
 
 Senior Software Engineer | Mobile & Distributed Systems
 
-I design and build scalable systems across mobile, web, and backend infrastructure.
+I design and deliver scalable systems across mobile, web, and backend infrastructure.
 
 7+ years of production engineering experience delivering high-performance React Native applications, scalable APIs, and modular architectures built for long-term maintainability and reliability.
 
@@ -21,7 +21,7 @@ I design and build scalable systems across mobile, web, and backend infrastructu
 
 ## Selected Impact
 
-- Reduced render overhead in mobile applications through state normalization and memoization strategies  
+- Reduced render overhead by restructuring state management and applying memoization strategies to eliminate unnecessary re-renders
 - Improved API latency by restructuring service boundaries and optimizing database query execution  
 - Increased production stability through structured logging and error boundary implementation  
 - Refactored legacy modules into modular, testable components to reduce regression risk  
