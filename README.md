@@ -1,77 +1,45 @@
 # Saif Ali
 
-Senior Software Engineer | Full Stack & Mobile Systems
+Senior Software Engineer | Mobile & Distributed Systems
 
 I design and build scalable systems across mobile, web, and backend infrastructure.
 
-7+ years of production engineering experience delivering high-performance React Native applications, scalable APIs, and modular systems designed for long-term maintainability and reliability.
+7+ years of production engineering experience delivering high-performance React Native applications, scalable APIs, and modular architectures built for long-term maintainability and reliability.
 
 ---
 
 ## Engineering Focus
 
-- Distributed mobile & web system architecture  
-- React Native performance optimization & memory management  
+- Distributed mobile and web system architecture  
+- React Native performance optimization and memory management  
 - Backend API design (REST / GraphQL)  
-- Database schema design & optimization  
-- Safe large-scale refactoring & production debugging  
-- CI/CD pipeline design & deployment reliability  
+- Database schema design and query optimization  
+- Production debugging and safe large-scale refactoring  
+- CI/CD pipeline design and release reliability  
 
 ---
 
 ## Selected Impact
 
-- Optimized mobile performance by reducing render latency and unnecessary re-renders  
-- Improved API response times by designing efficient REST/GraphQL service boundaries  
-- Strengthened production stability through enhanced error handling and observability  
-- Refactored legacy modules into modular, testable components to improve maintainability  
+- Reduced render overhead in mobile applications through state normalization and memoization strategies  
+- Improved API latency by restructuring service boundaries and optimizing database query execution  
+- Increased production stability through structured logging and error boundary implementation  
+- Refactored legacy modules into modular, testable components to reduce regression risk  
 
 ---
 
-## Core Technologies
+## Primary Stack
 
-**Mobile & Frontend:**  
 React Native · React · Next.js · TypeScript  
-
-**Backend & APIs:**  
-Node.js · GraphQL · REST  
-
-**Data & Persistence:**  
-MongoDB · PostgreSQL · Firebase  
-
-**Infrastructure & DevOps:**  
-AWS · Docker · CI/CD · GitHub Actions  
+Node.js · GraphQL  
+MongoDB · PostgreSQL  
+AWS · Docker · CI/CD  
 
 ---
 
 ## Engineering Principles
 
-- Design systems for scale, not just features  
-- Measure and optimize performance proactively  
-- Build modular and maintainable codebases  
-- Prioritize reliability and engineering rigor  
-- Align technical decisions with long-term product goals  
-
----
-
-## AI-Assisted Engineering
-
-AI tools are integrated into disciplined workflows to accelerate development while preserving architectural quality:
-
-- Controlled prototyping  
-- Safe code refactoring at scale  
-- Test scaffolding and documentation automation  
-- Debugging acceleration  
-
----
-
-## GH Metrics
-
-![](https://github-readme-stats.vercel.app/api?username=thesaifalitai&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
----
-
-## Contact
-
-**LinkedIn:** https://linkedin.com/in/thesaifalitai  
-**Email:** thesaifalitai@gmail.com
+- Design for scale from the outset  
+- Measure and optimize performance continuously  
+- Favor modular systems over feature coupling  
+- Align technical decisions with long-term product strategy  
